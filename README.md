@@ -276,3 +276,17 @@ AI systems that solve real business problems.
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sindhusrisali@gmail.com)
 
 
+---
+
+## 📄 License
+
+MIT License — open to use, adapt, and build upon.
+
+---
+
+<p align="center">
+  <i>Built with curiosity, caffeine, and a genuine belief that 
+  AI can make better design decisions than a committee. ☕</i>
+</p>
+
+
